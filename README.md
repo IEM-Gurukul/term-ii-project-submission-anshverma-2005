@@ -1,43 +1,27 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pG3gvzt-)
-# PCCCS495 – Term II Project
+# Cricket Player Statistics Tracker
 
-## Project Title
+## Problem Statement
+This project aims to develop a system to track and manage cricket player statistics efficiently. It helps store player data, calculate performance metrics, and provide easy access to statistics.
 
----
-
-## Problem Statement (max 150 words)
-
----
-
-## Target User
-
----
+## Target Users
+- Cricket coaches
+- Team managers
+- Cricket enthusiasts
 
 ## Core Features
-
-- 
-- 
-- 
-
----
+- Add and manage players
+- Track runs, wickets, matches
+- Calculate averages and strike rates
+- View player performance
 
 ## OOP Concepts Used
+- Classes and Objects
+- Encapsulation
+- Inheritance
+- Polymorphism
 
-- Abstraction:
-- Inheritance:
-- Polymorphism:
-- Exception Handling:
-- Collections / Threads:
-
----
-
-## Proposed Architecture Description
-
----
+## Architecture
+The system is designed using modular classes such as Player, Match, and Statistics Manager.
 
 ## How to Run
-
----
-
-## Git Discipline Notes
-Minimum 10 meaningful commits required.
+Compile and run the Java program using any standard Java compiler.
