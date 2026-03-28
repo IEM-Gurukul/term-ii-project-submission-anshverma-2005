@@ -24,4 +24,7 @@ class Player {
         System.out.println("Wickets: " + wickets);
         System.out.println("Average: " + getBattingAverage());
     }
+  public boolean isAllRounder() {
+    return runs > 3000 && wickets > 20;
+    }
 }
