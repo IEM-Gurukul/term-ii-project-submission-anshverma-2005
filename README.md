@@ -23,5 +23,9 @@ This project aims to develop a system to track and manage cricket player statist
 ## Architecture
 The system is designed using modular classes such as Player, Match, and Statistics Manager.
 
-## How to Run
+## How to Run 
 Compile and run the Java program using any standard Java compiler.
+## Future Improvements
+- Add GUI for better user interaction
+- Store data using file or database
+- Add search and filter options
