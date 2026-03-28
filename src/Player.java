@@ -1,3 +1,4 @@
+// This class represents a cricket player and stores statistics
 class Player {
     private String name;
     private int matches;
