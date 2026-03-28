@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println("Player 1 Stats:");
         p1.displayStats();
+        System.out.println("Is All-Rounder: " + p1.isAllRounder());
 
         System.out.println("\nPlayer 2 Stats:");
         p2.displayStats();
