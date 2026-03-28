@@ -13,5 +13,7 @@ public class Main {
 
         System.out.println("\nPlayer 3 Stats:");
         p3.displayStats();
+System.out.println("\n--- End of Player Report ---");
     }
 }
+
